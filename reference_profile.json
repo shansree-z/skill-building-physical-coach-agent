@@ -1,0 +1,24 @@
+{
+  "exercise": "sample_squat",
+  "timing": {
+    "onset_delta_ms": 60.0
+  },
+  "form": {
+    "joint_a": {
+      "angle_range_deg": 50.0
+    },
+    "joint_b": {
+      "angle_range_deg": 45.0
+    }
+  },
+  "force": {
+    "joint_a": {
+      "peak_angular_velocity_deg_s": 180.0,
+      "peak_acceleration_g": 1.8
+    },
+    "joint_b": {
+      "peak_angular_velocity_deg_s": 170.0,
+      "peak_acceleration_g": 1.7
+    }
+  }
+}
